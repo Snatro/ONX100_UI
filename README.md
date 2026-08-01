@@ -28,3 +28,7 @@ To get this project on your device, you have to clone the repository.
  3. Put in "git clone https://github.com/Snatro/ONX100_UI" command 
  4. Go to frontend directory -> cd frontend
  5. Put in "npm install" command
+
+## Run the application
+To run application, put the "npm run dev" command in terminal.
+The application **HAS** to run on http://localhost:5173 port, as Cross origin for sharing resources from Server site is connected to that port specifically. 
